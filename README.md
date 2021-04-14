@@ -10,5 +10,6 @@ Principles of navigation :
 
 Now lets create Navigation as following-
 Create new android resource file and select navigation
-
+![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-14%2017-23-24.png)
+![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-14%2017-27-03.png)
 
