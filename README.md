@@ -35,3 +35,6 @@ If you wondered where is the "action_fragmentTittle_to_gameFragment" id comes fr
 ![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-16%2023-55-19.png)
 
 Now Run the app and see the play button is working . Yeah !!!
+
+Now lets do it more nice way . When i added dependencies i added kotlin specific Navigation version which is part of jetpack project known as anroidKtx. see Bellow
+
