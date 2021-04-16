@@ -24,4 +24,5 @@ Now add the NavHostFragment to control the navigation as follows
 Configure navigation file as follows
 ![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-15%2022-26-28.png)
 
-
+Now Add destination from tittle fragment to game fragment as follows
+![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-16%2023-23-55.png)
