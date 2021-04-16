@@ -41,4 +41,5 @@ which includes extensive function which makes android code more compact within k
 ![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-17%2000-11-38.png)
 
 Navigation actually create an onClick function for us . so lets remove the anonymous method as follows
+![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-17%2000-20-40.png)
 
