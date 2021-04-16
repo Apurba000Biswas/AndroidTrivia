@@ -10,6 +10,8 @@ Principles of navigation :
 
 
 Add dependency :
+![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-17%2000-32-48.png)
+![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-17%2000-32-52.png)
 
 
 Now lets create Navigation as following-
