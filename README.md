@@ -33,3 +33,5 @@ Now lets create the onClickListener for play button to trigger the GameFragment.
 
 If you wondered where is the "action_fragmentTittle_to_gameFragment" id comes from. its inside your Navigation.
 ![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-16%2023-55-19.png)
+
+Now Run the app and see the play button is working . Yeah !!!
