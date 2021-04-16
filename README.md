@@ -26,3 +26,8 @@ Configure navigation file as follows
 
 Now Add destination from tittle fragment to game fragment as follows
 ![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-16%2023-23-55.png)
+
+If you run your app now . You will see nothing changed . Actually we did not specified which button should launch the game fragment.
+Now lets create the onClickListener for play button to trigger the GameFragment.
+![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%20021-04-16%2023-55-08.png)
+
