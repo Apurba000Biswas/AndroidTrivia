@@ -53,3 +53,6 @@ And That's It.
 Lets create two more fragment and add them in the navigation as follows
 ![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-17%2000-52-23.png)
 
+Actually The fragment has two button those launched the Game Over or Game Won Fragment
+
+
