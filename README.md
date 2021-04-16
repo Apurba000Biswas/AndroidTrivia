@@ -47,3 +47,9 @@ Navigation actually can create an onClick function for us . so lets remove the a
 
 And That's It.
 
+
+### Conditional Navigation
+
+Lets create two more fragment and add them in the navigation as follows
+
+
