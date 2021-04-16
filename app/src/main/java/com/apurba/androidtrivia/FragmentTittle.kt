@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.navigation.Navigation
+import androidx.navigation.findNavController
 import com.apurba.androidtrivia.databinding.FragmentTittleBinding
 
 
@@ -17,9 +18,9 @@ class FragmentTittle : Fragment() {
         val binding : FragmentTittleBinding = DataBindingUtil.inflate(inflater
             , R.layout.fragment_tittle, container, false);
 
-        binding.button.setOnClickListener { view : View ->
-            Navigation.findNavController(view).navigate(R.id.action_fragmentTittle_to_gameFragment)
-        }
+        binding.button.setOnClickListener(
+            Navigation.createNavigateOnClickListener(R.id.action_fragmentTittle_to_gameFragment)
+        )
 
         return binding.root
     }
