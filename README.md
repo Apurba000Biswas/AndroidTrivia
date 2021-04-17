@@ -76,3 +76,4 @@ tittleFragment. So lets do it with out the inclusive flag.
 ### Adding Up button on the app bar
 Navigation Controller has a Ui Library called Navigation Ui among other things . To hook up the up button Navigation Ui needs
 access to the navigation controller. So in your activity find the NavController and add it with the Ui Library as follows.
+![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-17%2018-40-45.png)
