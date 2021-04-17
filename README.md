@@ -69,3 +69,4 @@ Now Lets add a button to the game Over fragment for try again . it should take b
 When we restart the game we need to pop off game won and game over fragment. So we need to add another action in game Over
 fragment in this time we are going to pop to fragmentTittle and not inclusive. because we are going to restart the game from
 tittleFragment. So lets do it with out the inclusive flag.
+![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-17%2018-05-35.png)
