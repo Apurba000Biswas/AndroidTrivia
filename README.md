@@ -64,3 +64,8 @@ Lets do it as follows.
 
 Double click on previously created action in the navigation design panel. and do the following for both action.
 ![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-17%2015-40-30.png)
+
+Now Lets add a button to the game Over fragment for try again . it should take back to the game fragment for retry .
+When we restart the game we need to pop off game won and game over fragment. So we need to add another action in game Over
+fragment in this time we are going to pop to fragmentTittle and not inclusive. because we are going to restart the game from
+tittleFragment. So lets do it with out the inclusive flag.
