@@ -8,6 +8,7 @@
     <fragment
         android:id="@+id/fragmentTittle"
         android:name="com.apurba.androidtrivia.FragmentTittle"
+        tools:layout="@layout/fragment_tittle"
         android:label="FragmentTittle" >
         <action
             android:id="@+id/action_fragmentTittle_to_gameFragment"
@@ -19,20 +20,32 @@
         android:label="fragment_game"
         tools:layout="@layout/fragment_game" >
         <action
+
             android:id="@+id/action_gameFragment_to_fragmentGameWon"
-            app:destination="@id/fragmentGameWon" />
+            app:destination="@id/fragmentGameWon"
+            app:popUpTo="@id/gameFragment"
+            app:popUpToInclusive="true" />
         <action
+
             android:id="@+id/action_gameFragment_to_fragmentGameOver"
-            app:destination="@id/fragmentGameOver" />
+            app:destination="@id/fragmentGameOver"
+            app:popUpTo="@id/gameFragment"
+            app:popUpToInclusive="true" />
     </fragment>
     <fragment
         android:id="@+id/fragmentGameWon"
         android:name="com.apurba.androidtrivia.FragmentGameWon"
         android:label="fragment_game_won"
-        tools:layout="@layout/fragment_game_won" />
+        tools:layout="@layout/fragment_game_won" >
+        <action
+            android:id="@+id/action_fragmentGameWon_to_gameFragment2" />
+    </fragment>
     <fragment
         android:id="@+id/fragmentGameOver"
         android:name="com.apurba.androidtrivia.FragmentGameOver"
         android:label="fragment_game_over"
-        tools:layout="@layout/fragment_game_over" />
+        tools:layout="@layout/fragment_game_over" >
+        <action
+            android:id="@+id/action_fragmentGameOver_pop_including_gameFragment2" />
+    </fragment>
 </navigation>

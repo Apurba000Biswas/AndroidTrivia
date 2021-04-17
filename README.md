@@ -56,3 +56,11 @@ Lets create two more fragment and add them in the navigation as follows
 Actually The fragment has two button those launched the Game Over or Game Won Fragment
 ![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-17%2001-11-39.png)
 
+If game won or game is over there is not point to going back to game fragment on back pressed . Instead we should go back
+to the tittle page . And if want to do that we need to access the back stack of navigation. We have to add an action to the
+game fragment pop to with inclusive flag for both Game Won or Game Over fragment. In that case When we back pressed from
+game Won fragment or game over fragment it will take to the fragment tittle not the previous game fragment.
+Lets do it as follows.
+
+Double click on previously created action in the navigation design panel. and do the following for both action.
+
