@@ -63,4 +63,4 @@ game Won fragment or game over fragment it will take to the fragment tittle not 
 Lets do it as follows.
 
 Double click on previously created action in the navigation design panel. and do the following for both action.
-
+![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-17%2015-40-30.png)
