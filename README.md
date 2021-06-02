@@ -90,4 +90,4 @@ override fun onSupportNavigateUp(): Boolean {
 ### Adding Overflow Menu
 Add a fragment called about Android Trivia Fragment.
 Add a menu as follows
-![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-04-17%2018-14-50.png)
+![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-06-02%2022-49-46.png)
