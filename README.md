@@ -86,3 +86,8 @@ override fun onSupportNavigateUp(): Boolean {
         val navController = this.findNavController(R.id.myNavHostFragment)
         return navController.navigateUp()
 }
+
+### Adding Overflow Menu
+Add a fragment called about Android Trivia Fragment.
+Add a menu as follows
+
