@@ -96,6 +96,8 @@ Note : Menu items Id must Match with the fragment Id
 Now we need to add our menu to show up somewhere . if we add the menu to our activity it will show up everywhere . But we only
 want to show it in the tittle fragment. So we need to add a line in Fragment Tittle as follows
 Now the final Result will be as follows
+![](https://github.com/Apurba000Biswas/AndroidTrivia/blob/master/screen_shots/Screenshot%20from%202021-06-02%2023-56-41.png)
+
 
 
 
